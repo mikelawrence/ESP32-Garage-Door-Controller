@@ -9,6 +9,7 @@ ESP32 based garage door controller. There are a lot of ESPHome based garage door
 PCB is designed in [KiCad](http://kicad.org) which is a great free EDA toolset
 
 ## PCB Preview
+<img src="ESP32_Garage_Door_Controller.pdf" style="width:100%">
 <img src="meta/ESP32_Garage_Door_Controller_Board.png" style="width:100%">
 
 ## PCB Parts List
