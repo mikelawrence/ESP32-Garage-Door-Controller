@@ -1,9 +1,10 @@
 # ESP32 Garage Door Controller
-ESP32 based garage door controller. There are a lot of ESPHome based garage door controller projects on the web. What makes this one unique is the use of a rotary encoder to determine garage door position.
+ESPHome based garage door controller. There are a lot of garage door controller projects on the web, what makes this one unique is the use of a rotary encoder to determine garage door position. You need a garage door opener that supports a SPST switch to operate. Some openers (I'm talking about Chamberlain models) don't have this option on the unit. 
+
+On a side note: Chamberlain recently stopped third party API access to MyQ which killed control for all sorts of home automation including Home Assistant. I realize that company's have the right to limit access and to control their ecosystem. But what Chamberlain did was close access to their API after many people bought their opener with third party access available. They also did this so that you will be forced to pay for access your garage door opener from your phone. There is no reason to buy a Chamberlain system when there are other systems that don't charge for access and have open APIs. Vote with your pocketbook and just say NO to Chamberlain Garage Door Openers! 
 
 ## Status
-* Rev A PCB has been ordered and delivered but has NOT been assembled and tested yet.
-* v41 of the Printable Box has been designed and tested with a bare PCB.
+* The Entire assembly has been attached to my Genie garage door opener for the last year and has been operating like a champ!
 
 ## PCB
 PCB is designed in [KiCad](http://kicad.org) which is a great free EDA toolset
